@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShopperRequest>
+	<city>hyderabad</city>
+	<country>India</country>
+	<email>demofooo@gmail.com</email>
+	<firstName>ram</firstName>
+	<gender>MALE</gender>
+	<lastName>lakshman</lastName>
+	<password>Ram@123</password>
+	<phone>9989945223</phone>
+	<state>Telangana</state>
+</ShopperRequest>
